@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BT Schach</string>
+    <string name="button_main_new_game">Neues Spiel</string>
+    <string name="button_main_load_game">Spiel laden</string>
+    <string name="button_main_bluetooth">Mitspieler suchen</string>
+    <string name="button_back_to_main">Hauptmenü</string>
+    <string name="button_discover">Suchen</string>
+    <string name="button_connect">Verbinden</string>
+    <string name="button_on_off">An/Aus</string>
+    <string name="button_offer_draw">Remi anbieten</string>
+    <string name="button_forfeit">Aufgeben</string>
+</resources>
